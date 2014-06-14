@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Suggestotron::Application.config.secret_token = 'a91e6826c988093dcb08b15c702b4d921a0478f4c1e73eb32bd70f10e5a1a371dbc7444c0bbcfe9470cf829c16e0049582307743d321682e7a633cdc2aff0192'
+Suggestotron::Application.config.secret_token = 'dae8841a4d1c6ab757fef94ad7d14c6ed0c8dc6c88d334d3ee1d1351d2492f34c6eadd1361e678fdf4180071940999c075d9365f342bf44bad8da411a1469708'
